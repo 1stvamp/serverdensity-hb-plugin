@@ -1,0 +1,5 @@
+include README.rst
+include LICENSE
+include CHANGELOG
+include *.txt
+recursive-include serverdensity_hb_plugin*.txt

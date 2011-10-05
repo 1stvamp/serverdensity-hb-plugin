@@ -1,0 +1,2 @@
+hippybot
+py-serverdensity
